@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rezolvat
+Comment=Get it done.
+Exec=/usr/bin/com.github.matzipan.rezolvat
+Icon=internet-mail
+Terminal=false
+Type=Application
+StartupNotify=true
